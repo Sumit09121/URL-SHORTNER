@@ -18,7 +18,7 @@ export default function Home() {
             One of the best URL Shortner for you
           </p>
           <p className="px-34 text-center">
-            We are the straight forward URL shortner here .ZipyLinks is a fast, minimalist, and efficient URL shortener that turns your long and messy links into clean, shareable short links - in a zip! Whether you're a developer, marketer, or casual user.
+            We are the straight forward URL shortner here .ZipyLinks is a fast, minimalist, and efficient URL shortener that turns your long and messy links into clean, shareable short links - in a zip! Whether you are a developer, marketer, or casual user.
           </p>
           <div className=' flex gap-3 text-purple-800'>
           <Link href='/shorten'><button className=' bg-purple-300 rounded-lg shadow-lg p-3 py-2 font-bold'>Try Now</button></Link>
