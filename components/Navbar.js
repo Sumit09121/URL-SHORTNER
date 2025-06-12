@@ -57,11 +57,11 @@ const Navbar = () => {
                 Try Now
               </button>
             </Link>
-            <Link href="/github">
+            <a href="https://github.com/Sumit09121" target="_blank" rel="noopener noreferrer">
               <button className="bg-purple-300 text-purple-900 rounded-lg shadow px-4 py-2 font-bold hover:bg-purple-400 transition">
                 GitHub
               </button>
-            </Link>
+            </a>
           </li>
         </ul>
       )}
