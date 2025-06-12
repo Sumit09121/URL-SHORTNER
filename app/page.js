@@ -39,7 +39,7 @@ export default function Home() {
             Try Now
           </button>
         </Link>
-        <Link href='/github.com/Sumit09121'>
+        <Link href='https://github.com/Sumit09121'>
           <button className='bg-purple-300 rounded-lg shadow-lg px-6 py-2 font-bold hover:bg-purple-400 transition'>
             Github
           </button>
